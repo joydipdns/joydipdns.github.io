@@ -68,16 +68,16 @@
   /* Create two unequal columns that sits next to each other */
   /* Sidebar/left column */
   .side {
-    -ms-flex: 20%; /* IE10 */
-    flex: 20%;
+    -ms-flex: 17%; /* IE10 */
+    flex: 17%;
     background-color: #f1f1f1;
     padding: 20px;
   }
   
   /* Main column */
   .main {   
-    -ms-flex: 80%; /* IE10 */
-    flex: 80%;
+    -ms-flex: 83%; /* IE10 */
+    flex: 83%;
     background-color: white;
     padding: 20px;
   }
@@ -91,7 +91,7 @@
   
   /* Footer */
   .footer {
-    padding: 7px;
+    padding: 1px;
     text-align: center;
     background: #ddd;
   }
